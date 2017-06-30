@@ -1,0 +1,19 @@
+{
+  "name": "bootstrap-modal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bootstrap-modal.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Currency-One/bootstrap-modal.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Currency-One/bootstrap-modal/issues"
+  },
+  "homepage": "https://github.com/Currency-One/bootstrap-modal#readme"
+}
